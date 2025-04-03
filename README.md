@@ -29,20 +29,16 @@ LED点阵时钟项目的PCB设计文件。
 ## Voice Control Light
 基于ESP32的语音控制智能灯具项目，包含完整的硬件设计和软件实现。
 
-### 硬件设计
-- 主控：ESP32系列芯片
-- 功能：
-  - RGB LED控制
-  - 语音识别
-  - WiFi连接
-  - 蓝牙配网
-  - 传感器集成
+<div style="display: flex; gap: 10px;">
+<img src="voice-control-light/PCB layout.png" width="400"/>
+<img src="voice-control-light/PCB with compnent.png" width="400"/>
+</div>
 
-### 软件特性
-- 支持WiFi配网
-- 集成语音识别功能
-- OTA固件升级
-- 传感器数据采集
-- 支持手机APP控制
+## wifi-controller
+基于ESP32的智能家居控制器项目，用于控制家中各种智能设备。
 
-项目包含完整的硬件设计文件、3D模型文件和示例代码。
+<div style="display: flex; gap: 10px;">
+<img src="wifi-controller/PCB layout.png" width="400"/>
+<img src="wifi-controller/pcb with compnent.png" width="400"/>
+</div>
+
