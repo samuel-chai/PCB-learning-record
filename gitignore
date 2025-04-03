@@ -1,0 +1,14 @@
+cat > .gitignore << EOF
+# 忽略大文件类型
+*.exe
+*.zip
+*.dmg
+*.msi
+*.pkg
+*.download
+*.downloading
+
+# 忽略特定大文件目录
+FPGA-G1/逻辑派FPGA-G1/02开发工具/Modelsim/
+FPGA-G1/逻辑派FPGA-G1/02开发工具/Gowin/
+EOF

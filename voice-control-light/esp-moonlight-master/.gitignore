@@ -1,0 +1,28 @@
+.config
+*.o
+*.pyc
+
+# VS Code Settings
+.vscode/
+
+# Example project files
+examples/**/sdkconfig
+examples/**/sdkconfig.old
+examples/**/build
+
+# Doc build artifacts
+docs/**/_build/
+docs/**/doxygen-warning-log.txt
+docs/**/sphinx-warning-log.txt
+docs/**/sphinx-warning-log-sanitized.txt
+docs/*/xml/
+docs/*/xml_in/
+docs/*/man/
+docs/*/*.pyc
+docs/doxygen_sqlite3.db
+
+# lock files for examples and components
+dependencies.lock
+
+# managed_components for examples
+managed_components
