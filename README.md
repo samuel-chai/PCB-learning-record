@@ -1,3 +1,4 @@
+
 # PCB Learning Record
 
 这个仓库记录了我的PCB学习项目，包含多个实践项目的设计文件和成果展示。每个项目的难度使用五星评级系统表示，其中★表示难度，☆表示未达到的难度级别。
@@ -31,6 +32,17 @@ LED点阵时钟项目的PCB设计文件。
 <img src="MatricClock/PCB with compnent.png" width="400"/>
 </div>
 
+## PD docking station
+难度：★★★☆☆
+
+多端口PD充电扩展坞设计项目。
+
+<div style="display: flex; gap: 10px;">
+<img src="PD docking station/3D-1.png" width="400"/>
+<img src="PD docking station/3D-2.png" width="400"/>
+<img src="PD docking station/PCB layout.png" width="400"/>
+</div>
+
 ## Voice Control Light
 难度：★☆☆☆
 
@@ -50,4 +62,3 @@ LED点阵时钟项目的PCB设计文件。
 <img src="wifi-controller/PCB layout.png" width="400"/>
 <img src="wifi-controller/pcb with compnent.png" width="400"/>
 </div>
-
