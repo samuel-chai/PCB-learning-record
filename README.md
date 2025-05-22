@@ -62,3 +62,13 @@ LED点阵时钟项目的PCB设计文件。
 <img src="wifi-controller/PCB layout.png" width="400"/>
 <img src="wifi-controller/pcb with compnent.png" width="400"/>
 </div>
+
+## screen-monitor
+难度：★★★☆☆
+
+屏幕监控项目的PCB设计文件。
+
+<div style="display: flex; flex-wrap: nowrap; overflow-x: auto; gap: 10px;">
+<img src="screen-monitor/screen-monitor1.png" width="400"/>
+<img src="screen-monitor/screen-monitor2.png" width="400"/>
+</div>
